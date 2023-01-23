@@ -1,0 +1,42 @@
+h1{
+    color: blueviolet;
+}
+.figure1 {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
+.figure2 {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
+.figure3 {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
+.figure4 {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
+.figure5 {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
+.figure6 {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
+.figure7 {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
+.tangram {
+    display: flex;
+    padding: 50px;
+}
