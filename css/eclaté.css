@@ -7,6 +7,7 @@ h1{
     border-top: 256px solid #99CC33;
     top: 100px;
     left:100px;
+    transition:transform 2sec;
 }
 .figure2 {
     width: 256px;
@@ -15,6 +16,7 @@ h1{
     transform: skew(-45deg);
     top: 200px;
     left:200px;    
+    transition:transform 2sec;
 }
 .figure3 {
     height: 181px;
@@ -23,6 +25,7 @@ h1{
     position: absolute;
     top: 300px;
     left:300px;    
+    transition:transform 2sec;
 }
 .figure4 {
     width: 0;
@@ -33,6 +36,7 @@ h1{
     border-right-width: 128px;
     top: 400px;
     left:400px;    
+    transition:transform 2sec;
 }
 .figure5 {
     border: 256px solid transparent;
@@ -41,6 +45,7 @@ h1{
     position: absolute;
     top: 500px;
     left:500px;    
+    transition:transform 2sec;
 }
 .figure6 {
     width: 0;
@@ -52,6 +57,7 @@ h1{
     position: absolute;
     top: 600px;
     left:600px;
+    transition:transform 2sec;
 }
 .figure7 {
     border-right: 256px solid transparent;
@@ -60,6 +66,7 @@ h1{
     position: absolute;
     top: 700px;
     left:700px;    
+    transition:transform 2sec;
 }
 .tangram {
     display: flex;
