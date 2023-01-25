@@ -1,53 +1,26 @@
-h1{
-    color: blueviolet;
+.tangram--square .figure1 {
+    transform: rotate(0deg) translate(0px,0px);
 }
-.figure1 {
-    border-right: 256px solid transparent;
-    border-bottom: 256px solid transparent;
-    border-top: 256px solid #99CC33;
-    transform:2sec
+
+.tangram--square .figure2 {
+    transform: rotate(0deg) skew(-45deg) translate(192px,-0px);
 }
-.figure2 {
-    width: 256px;
-    height: 128px;
-    background: #6666CC;
-    transform: skew(-45deg);  
+
+.tangram--square .figure3 {
+    transform: rotate(45deg) translate(143px,90px);
 }
-.figure3 {
-    height: 181px;
-    width: 181px;
-    background: #FF6666;
-    position: absolute;  
+
+.tangram--square .figure4 {
+    transform: rotate(0deg) translate(128px,128px);
 }
-.figure4 {
-    width: 0;
-    height: 0;
-    border: 0 solid transparent;
-    border-top: 128px solid #FF9933;
-    border-left-width: 128px;
-    border-right-width: 128px;   
+
+.tangram--square .figure5 {
+    transform: rotate(0deg) translate(0px,0px);
 }
-.figure5 {
-    border: 256px solid transparent;
-    border-color: transparent #FFCC00 transparent transparent;
-    border-width: 256px;
-    position: absolute;   
+
+.tangram--square .figure6 {
+    transform: rotate(0deg) translate(0px,256px);
 }
-.figure6 {
-    width: 0;
-    height: 0;
-    border: 0 solid transparent;
-    border-left: 128px solid #3399FF;
-    border-bottom-width: 128px;
-    border-top-width: 128px;
-    position: absolute;
-}
-.figure7 {
-    border-right: 256px solid transparent;
-    border-left: 256px solid transparent;
-    border-bottom: 256px solid #33CC66;
-    position: absolute;   
-}
-.tangram {
-    display: block;
+.tangram--square .figure7 {
+    transform: translate(0px,256px)rotate(0deg);
 }
