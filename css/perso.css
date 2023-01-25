@@ -11,7 +11,7 @@
 }
 
 .tangram--perso .figure4 {
-    transform: rotate(0deg) translate(-2px,512px);
+    transform: rotate(270deg) translate(-65px,448px);
 }
 
 .tangram--perso .figure5 {
@@ -19,8 +19,8 @@
 }
 
 .tangram--perso .figure6 {
-    transform: rotate(270deg) translate(-137px,320px);
+    transform: rotate(270deg) translate(-317px,320px);
 }
 .tangram--perso .figure7 {
-    transform: translate(0px,256px) rotate(0deg);
+    transform: translate(128px,126px) rotate(90deg);
 }
